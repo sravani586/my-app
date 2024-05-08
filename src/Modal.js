@@ -5,7 +5,7 @@ const Modal = ({ handleClose }) => {
     <div className="modal-backdrop" onClick={handleClose}>
       <div className="modal">
         <div className="modal-body">
-          <div className="modal-name">{"santoshi"}</div>
+          <div className="modal-name">{"Sravani"}</div>
           <div className="modal-role">{"software developer"}</div>
           <div className="skills">
             <ul>
